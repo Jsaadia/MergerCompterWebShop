@@ -7,7 +7,8 @@
   padding: 10px !important;
 }
 .p-sm {
-  padding: 15px !important;
+    padding: 4px !important;
+    margin-bottom: 10px !important;
 }
 .p-m {
   padding: 20px !important;
@@ -1392,7 +1393,7 @@ fieldset[disabled] .btn-link.active {
 .btn-circle.btn-lg {
   width: 50px;
   height: 50px;
-  padding: 10px 16px;
+  padding: 7px 16px;
   border-radius: 25px;
   font-size: 18px;
   line-height: 1.33;
@@ -3495,32 +3496,32 @@ ul.h-list li:hover a {
   display: block;
 }
 .landing-page .navbar-default {
-  background: #fff;
+  background: #6a6c6f;
 }
 .landing-page .navbar .navbar-brand {
-  font-size: 12px;
-  height: auto;
-  margin-top: 8px;
-  padding: 9px 15px;
-  font-weight: 700;
-  border-radius: 5px;
-  color: #fff;
-  display: block;
-  background-color: #62cb31;
-  margin-left: 0;
+    font-size: 12px;
+    height: auto;
+    margin-top: 8px;
+    padding: 9px 15px;
+    font-weight: 700;
+    border-radius: 5px;
+    color: #6a6c6f;
+    display: block;
+    background-color: #62cb31;
+    margin-left: 0;
 }
 .landing-page .navbar-default .navbar-toggle:hover,
 .landing-page .navbar-default .navbar-toggle:focus {
   background: #62cb31;
 }
-.landing-page .navbar-default .navbar-toggle:hover .icon-bar,
-.landing-page .navbar-default .navbar-toggle:focus .icon-bar {
-  background-color: #fff !important;
-}
+    .landing-page .navbar-default .navbar-toggle:hover .icon-bar,
+    .landing-page .navbar-default .navbar-toggle:focus .icon-bar {
+        background-color: #6a6c6f !important;
+    }
 .landing-page .navbar-default .navbar-nav > .active > a,
 .landing-page .navbar-default .navbar-nav > .active > a:hover,
 .landing-page .navbar-default .navbar-nav > .active > a:focus {
-  background-color: transparent;
+  /*background-color: transparent;*/
   color: #62cb31;
   border: none;
 }

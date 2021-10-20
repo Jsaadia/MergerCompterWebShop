@@ -8,6 +8,10 @@ namespace WebPage8.Controllers
 {
     public class ProductController : Controller
     {
+        public IActionResult Index()
+        {
+            return View();
+        }
         public IActionResult BrandItems()
         {
             return View();
@@ -20,5 +24,6 @@ namespace WebPage8.Controllers
         {
             return View();
         }
+       
     }
 }

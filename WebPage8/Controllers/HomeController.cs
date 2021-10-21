@@ -28,6 +28,11 @@ namespace WebPage8.Controllers
             return View();
         }
 
+        public IActionResult CustomerService()
+        {
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

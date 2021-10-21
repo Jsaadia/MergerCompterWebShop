@@ -10,7 +10,8 @@
       "wwwroot/vendor/fontawesome/css/font-awesome.css",
       "wwwroot/vendor/bootstrap/dist/css/bootstrap.css",
       "wwwroot/vendor/owlcarousel/assets/owl.carousel.min.css",
-      "wwwroot/vendor/bootstrap-star-rating/css/star-rating.css"
+      "wwwroot/vendor/bootstrap-star-rating/css/star-rating.css",
+      "wwwroot/styles/login.css"
     ],
     "minify": {
       "enabled": false,

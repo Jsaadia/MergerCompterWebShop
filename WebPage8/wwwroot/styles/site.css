@@ -4931,6 +4931,27 @@ color: #fde16d !important;}
 .megamenu{ width: 300px;}
 .megamenu li{ display: inline-block; width:45%; padding: 10px 0}
 
+
+/***********************Changes From 21 oct 2021 *******************/
+.navbar-default
+.navbar-nav > li > a:hover,
+.navbar-default
+.navbar-nav > li > a:focus {
+    color: #eee !important;
+    background-color: transparent;
+}
+
+
+.btn:hover, .btn:focus, .btn.focus {
+    color: #eee !important;
+    text-decoration: none;
+}
+
+.navbar-default
+.navbar-nav > li > a {
+    color: #eee !important;
+}
+
 @font-face {
 	font-family: 'proxima_nova_rgbold';
 	src: url('../../fonts/proximanova-bold-webfont.eot');
@@ -14425,4 +14446,10 @@ height: 30px;}
 
 .star-rating-rtl .caption {
     padding-right: 5px;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #18141a !important;
+    border-color: #18141a !important;
 }

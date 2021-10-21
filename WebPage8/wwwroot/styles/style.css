@@ -3512,7 +3512,7 @@ ul.h-list li:hover a {
 }
 .landing-page .navbar-default .navbar-toggle:hover,
 .landing-page .navbar-default .navbar-toggle:focus {
-  background: #62cb31;
+  /*background: #62cb31;*/
 }
     .landing-page .navbar-default .navbar-toggle:hover .icon-bar,
     .landing-page .navbar-default .navbar-toggle:focus .icon-bar {
@@ -3522,7 +3522,7 @@ ul.h-list li:hover a {
 .landing-page .navbar-default .navbar-nav > .active > a:hover,
 .landing-page .navbar-default .navbar-nav > .active > a:focus {
   /*background-color: transparent;*/
-  color: #62cb31;
+/*  color: #62cb31;*/
   border: none;
 }
 .landing-page .navbar-default li a:hover {
